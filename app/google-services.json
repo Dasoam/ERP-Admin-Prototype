@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "778685291707",
+    "project_id": "erp-p-r-o",
+    "storage_bucket": "erp-p-r-o.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778685291707:android:34a5596ef08a01441bdd9e",
+        "android_client_info": {
+          "package_name": "com.dadash.erpadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdIqTibQd8-qZ_-4vKVLYd1yfZrSpMlgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778685291707:android:3e9eb23d7c861f421bdd9e",
+        "android_client_info": {
+          "package_name": "com.dadash.erpprototype"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdIqTibQd8-qZ_-4vKVLYd1yfZrSpMlgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
