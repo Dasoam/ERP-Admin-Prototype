@@ -1,4 +1,4 @@
-# ERP Prototype - Firebase Event Posting App
+# ERP Admin Prototype - Firebase Event Posting App
 
 This is an Android application that allows users to post event messages with a title, content, and the name of the person posting the message. The application interacts with Firebase Firestore to store the posted data.
 
